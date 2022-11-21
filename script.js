@@ -56,11 +56,7 @@ function cube()
 }
 
 function fact() {
-    let f=1;
-    for(let i=screen.value;i<=1;i--){
-        f=f*i;
-    }
-    screen.value = f;
+    screen.value = 'This Function Is Unavailable'
 }
 
 function backspc()
